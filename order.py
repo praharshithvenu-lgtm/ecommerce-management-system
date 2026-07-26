@@ -4,7 +4,6 @@ from datetime import date
 def create_orders():
     customer_id=int(input("enter the id :"))
     connection=get_connection()
-    print(connection.autocommit)
     cursor=connection.execute("select * from customer where customer_id=?",customer_id)
     row=cursor.fetchone()
     if row:
