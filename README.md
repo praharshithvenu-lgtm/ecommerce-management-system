@@ -62,11 +62,11 @@ ecommerce-management-system/
 
 ### Product Management
 
-![Product Management](screenshots/product-management.jpg)
+![Product Management](screenshots/product management.jpg)
 
 ### Customer Management
 
-![Customer Management](screenshots/customer-management.jpg)
+![Customer Management](screenshots/customer management.jpg)
 
 ### Final Bill
 
